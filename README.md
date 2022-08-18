@@ -1,10 +1,4 @@
-### Hi there 👋
-* 👂 My name is Janhavi
-* 👩 Pronouns: her/she
-* 🔭 I’m currently working on PEGA
-* 🌱 I’m currently learning AEM
-* 🤝 I’m looking to collaborate on AEM
-* 🤔 I’m looking for help with AEM
-* 📫 How to reach me: Noways
-* ❤️ I love Technology
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
